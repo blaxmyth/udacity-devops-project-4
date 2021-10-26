@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/blaxmyth/udacity-devops-project-4/tree/main.svg?style=svg)](https://circleci.com/gh/blaxmyth/udacity-devops-project-4/tree/main)
 
 ## Project Overview
 
